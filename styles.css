@@ -126,6 +126,15 @@ font-size: 16px;
     width: 80%;
     margin: 10%  ;
 }
+.rodape__logo{
+    
+    margin: 10% 3% 0% 0%
+}
+.rodape__subtitulo{
+    color: var(--cinza-secundario);
+    font-family: var(--fonte-principal);
+    font-size: 0.9rem;
+    margin: 1%;
 .ultima__lista a:hover{
     color: var(--botao-azul);    
 }
